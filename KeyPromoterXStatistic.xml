@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>96</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -462,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>146</Count>
+          <Count>147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HiwayCommonAuthApplication'">
@@ -614,7 +614,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>432</Count>
+          <Count>434</Count>
         </Item>
       </Statistic>
     </option>
