@@ -17,6 +17,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Clone Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Clone Row</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close Active Task...">
         <Item>
           <IdeaActionID>tasks.close</IdeaActionID>
@@ -30,7 +38,7 @@
           <IdeaActionID>Console.TableResult.SubmitAndCommit</IdeaActionID>
           <ShortCut>'⌥⇧⌘⏎'</ShortCut>
           <Description>Commit</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -190,7 +198,7 @@
           <IdeaActionID>tasks.goto</IdeaActionID>
           <ShortCut>'⌥⇧N'</ShortCut>
           <Description>Open Task...</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -254,7 +262,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>252</Count>
+          <Count>253</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'hiway [clean]'">
@@ -334,7 +342,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DemoApplication'">
@@ -494,7 +502,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -534,7 +542,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>117</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
@@ -550,7 +558,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="go to definition">
@@ -558,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>405</Count>
+          <Count>410</Count>
         </Item>
       </Statistic>
     </option>
