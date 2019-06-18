@@ -22,7 +22,7 @@
           <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Clone Row</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Active Task...">
@@ -38,7 +38,7 @@
           <IdeaActionID>Console.TableResult.SubmitAndCommit</IdeaActionID>
           <ShortCut>'⌥⇧⌘⏎'</ShortCut>
           <Description>Commit</Description>
-          <Count>30</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -142,7 +142,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Execute</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -550,7 +550,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
