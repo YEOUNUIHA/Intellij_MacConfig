@@ -6,7 +6,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>12</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -38,7 +38,7 @@
           <IdeaActionID>Console.TableResult.SubmitAndCommit</IdeaActionID>
           <ShortCut>'⌥⇧⌘⏎'</ShortCut>
           <Description>Commit</Description>
-          <Count>42</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>124</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -110,7 +110,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -118,7 +118,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -270,7 +270,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -294,7 +294,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>305</Count>
+          <Count>307</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'HiwayCommonAuthApplication'">
@@ -446,7 +446,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -582,7 +582,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>29</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -646,7 +646,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>173</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="go to definition">
