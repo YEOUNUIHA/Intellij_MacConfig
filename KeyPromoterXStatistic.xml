@@ -654,7 +654,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>492</Count>
+          <Count>493</Count>
         </Item>
       </Statistic>
     </option>
