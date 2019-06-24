@@ -6,7 +6,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -38,7 +38,7 @@
           <IdeaActionID>Console.TableResult.SubmitAndCommit</IdeaActionID>
           <ShortCut>'⌥⇧⌘⏎'</ShortCut>
           <Description>Commit</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>143</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -310,7 +310,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>318</Count>
+          <Count>321</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DemoApplication'">
@@ -414,7 +414,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DemoApplication'">
@@ -614,7 +614,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -678,7 +678,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>187</Count>
+          <Count>188</Count>
         </Item>
       </Statistic>
       <Statistic Action="go to definition">
@@ -686,7 +686,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>515</Count>
+          <Count>516</Count>
         </Item>
       </Statistic>
     </option>
