@@ -134,7 +134,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>82</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -433,6 +433,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'HiwayCommonMgmApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'HiwayCommonMgmApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'post-requests#1'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -535,6 +543,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'HiwayCommonAuthApplication'</Description>
           <Count>44</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HiwayCommonMgmApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'HiwayCommonMgmApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'hiway [deploy]'">
