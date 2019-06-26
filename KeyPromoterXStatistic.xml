@@ -566,7 +566,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'HiwayCommonMgmApplication'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'hiway [deploy]'">
@@ -710,7 +710,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>202</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="go to definition">
@@ -718,7 +718,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>534</Count>
+          <Count>537</Count>
         </Item>
       </Statistic>
     </option>
