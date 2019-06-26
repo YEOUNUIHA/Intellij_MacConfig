@@ -318,7 +318,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>332</Count>
+          <Count>333</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DemoApplication'">
@@ -342,7 +342,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'HiwayCommonMgmApplication'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'hiway [clean]'">
@@ -550,7 +550,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>178</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DemoApplication'">
@@ -574,7 +574,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'HiwayCommonMgmApplication'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'hiway [deploy]'">
