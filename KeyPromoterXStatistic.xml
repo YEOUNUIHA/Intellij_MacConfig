@@ -270,7 +270,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -463,6 +463,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'HiwayCommonMgmApplication'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'npm serve'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'npm serve'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'post-requests#1'">
@@ -678,7 +686,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -718,7 +726,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>208</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="go to definition">
