@@ -729,6 +729,14 @@
           <Count>210</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>Graph.ZoomIn</IdeaActionID>
+          <ShortCut>'+' or '='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="go to definition">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
